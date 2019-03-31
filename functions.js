@@ -18,4 +18,4 @@ function deletetoDo(position) {
     todos.splice(position, 1);
     displayToDos();
 }
->>>>>>> version02
+
